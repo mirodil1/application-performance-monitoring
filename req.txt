@@ -1,0 +1,4 @@
+aiohttp==3.8.3
+aiohttp-sse==2.1.0
+psutil==5.9.4
+pyzmq==25.0.0
